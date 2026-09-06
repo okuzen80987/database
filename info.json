@@ -2,6 +2,8 @@
  "version":"0.1",
  "shared":false,
  "maintenance":false,
+ "devname": "Zuraa",
+ "devtele": "https://t.me/zuraNich",
  "allowedToken": [
    "123456789",
    "lainnya"
