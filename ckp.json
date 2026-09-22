@@ -2,7 +2,7 @@
   "shared": false,
   "detail": {
     "target": "https://smpnegeri2boja.sch.id/",
-    "rps": "50",
+    "rps": "54",
     "thread": "5",
     "proxyfile": "proxy58.txt"
   }
