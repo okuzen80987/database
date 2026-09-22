@@ -1,5 +1,5 @@
 {
-  "shared": "true",
+  "shared": true,
   "detail": {
     "target": "https://example.com",
     "rps": "50",
