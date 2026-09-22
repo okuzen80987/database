@@ -1,8 +1,8 @@
 {
   "shared": false,
   "detail": {
-    "target": "https://smpnegeri2boja.sch.id/",
-    "rps": "54",
+    "target": "https://dstat.countbot.uk/",
+    "rps": "100",
     "thread": "5",
     "proxyfile": "proxy58.txt"
   }
