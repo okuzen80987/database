@@ -1,6 +1,6 @@
 {
-  target: "https://example.com",
-  rps: "50",
-  thread: "5",
-  proxyfile: "proxy58.txt"
+  "target": "https://example.com",
+  "rps": "50",
+  "thread": "5",
+  "proxyfile": "proxy58.txt"
 }
