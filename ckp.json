@@ -1,9 +1,9 @@
 {
   "shared": false,
   "detail": {
-    "target": "https://dstat.countbot.uk/",
-    "rps": "100",
+    "target": "https://request.countbot.win/",
+    "rps": "300",
     "thread": "5",
-    "proxyfile": "proxy58.txt"
+    "proxyfile": "https.txt"
   }
 }
