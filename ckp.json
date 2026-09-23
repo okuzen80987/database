@@ -2,7 +2,7 @@
   "shared": false,
   "detail": {
     "target": "https://dstat.countbot.uk/",
-    "rps": "50",
+    "rps": "100000",
     "thread": "5",
     "proxyfile": "https.txt"
   }
